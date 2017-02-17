@@ -1,0 +1,35 @@
+.box {
+  height: 31.25px;
+  width: 31.25px;
+  background-color: darkgray;
+  display: inline-block;
+  float: left;
+  padding: 0px
+}
+
+#container {
+  margin: 0 auto;
+  width: 500px;
+  max-width: 500px;
+  max-height: 500px;
+  min-width: 500px;
+  min-height: 500px;
+  height: 500px;
+  border-spacing: 0px;
+
+}
+
+header {
+  margin: 0 auto;
+  width: 250px;
+}
+
+.button {
+  margin: 0 auto;
+  width: 100px;
+  padding: 5px;
+}
+
+body {
+  background-color: #f2f3fc;
+}
